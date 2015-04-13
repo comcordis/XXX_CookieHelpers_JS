@@ -1,0 +1,6 @@
+project:XXX_CookieHelpers_JS
+deployEnvironment:development
+checkout:master
+commitHash:8dd4ad32c412167fcb389dc965c6ab3ed6263359
+timestamp:2015-04-13T09:43:49Z
+deployer:operations
